@@ -84,7 +84,7 @@ Ongur , Tindivanam , Villp.
 -------------------------
 End-Semeter Result 2026-27
 -------------------------
-Enroll No : 101 Student Name : RAMYA D
+Enroll No : 101 Student Name : AMSAVENI M
 ---------------------------------
 Linux Program : 70 PASS
 Ad.Java : 80 PASS
