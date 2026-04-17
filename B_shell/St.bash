@@ -58,7 +58,6 @@ echo "Total : $tot Average : $avg Grade : $g"
 echo "----------------------------------------"
 
 
-
 OUTPUT:
 phase 1
 STUDENT MARK LIST
