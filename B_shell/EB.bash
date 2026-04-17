@@ -39,3 +39,23 @@ fi
 
 echo "Amount to be paid: Rs. $amt"
 echo "-------Thank You!----------"
+
+OUTPUT:
+Electricity Bill
+Enter the EB number
+5040
+Enter the Consumer Name
+Amsaveni
+Enter the Previous Unit
+500
+Enter the Current Unit
+1200
+
+TamilNadu Government
+Department of Electricity Board
+----------------------------------
+Bill Receipt
+----------------------------------
+EB Number: 5040     Consumer Name: Amsaveni
+Unit Consumed: 700 units
+Amount to be paid: Rs. 3500
